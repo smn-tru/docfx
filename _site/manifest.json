@@ -1,0 +1,212 @@
+{
+  "homepages": [],
+  "source_base_path": "C:/git/docfx_project",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/intro.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "articles/toc.html"
+        },
+        ".json": {
+          "relative_path": "articles/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "media/4incentiveparentletter.png",
+      "output": {
+        "resource": {
+          "relative_path": "media/4incentiveparentletter.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "media/ChangeTemplate_edited.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "media/ChangeTemplate_edited.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "media/Coupon_edited.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "media/Coupon_edited.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "media/FooterImage_edited.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "media/FooterImage_edited.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "media/InsertIncentives_edited.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "media/InsertIncentives_edited.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "media/MailMerge_edited.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "media/MailMerge_edited.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "media/SwapIncentives_edited.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "media/SwapIncentives_edited.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "media/changeTemplateBtn.png",
+      "output": {
+        "resource": {
+          "relative_path": "media/changeTemplateBtn.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "parentLetterTemplateEditor/coupon.md",
+      "output": {
+        ".html": {
+          "relative_path": "parentLetterTemplateEditor/coupon.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "parentLetterTemplateEditor/footerImage.md",
+      "output": {
+        ".html": {
+          "relative_path": "parentLetterTemplateEditor/footerImage.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "parentLetterTemplateEditor/incentive.md",
+      "output": {
+        ".html": {
+          "relative_path": "parentLetterTemplateEditor/incentive.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "parentLetterTemplateEditor/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "parentLetterTemplateEditor/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "parentLetterTemplateEditor/mailMerge.md",
+      "output": {
+        ".html": {
+          "relative_path": "parentLetterTemplateEditor/mailMerge.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "parentLetterTemplateEditor/template.md",
+      "output": {
+        ".html": {
+          "relative_path": "parentLetterTemplateEditor/template.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "parentLetterTemplateEditor/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "parentLetterTemplateEditor/toc.html"
+        },
+        ".json": {
+          "relative_path": "parentLetterTemplateEditor/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html"
+        },
+        ".json": {
+          "relative_path": "toc.json"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
