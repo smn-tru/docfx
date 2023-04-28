@@ -1,8 +1,18 @@
 {
   "homepages": [],
-  "source_base_path": "C:/git/docfx_project",
+  "source_base_path": "C:/git/docfx",
   "xrefmap": "xrefmap.yml",
   "files": [
+    {
+      "type": "Conceptual",
+      "source_relative_path": "README.md",
+      "output": {
+        ".html": {
+          "relative_path": "README.html"
+        }
+      },
+      "version": ""
+    },
     {
       "type": "Conceptual",
       "source_relative_path": "articles/intro.md",
@@ -22,6 +32,16 @@
         },
         ".json": {
           "relative_path": "articles/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "documentationIndex.md",
+      "output": {
+        ".html": {
+          "relative_path": "documentationIndex.html"
         }
       },
       "version": ""
@@ -48,70 +68,210 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "media/ChangeTemplate_edited.mp4",
+      "source_relative_path": "media/4incentiveparentlettertemplate.png",
       "output": {
         "resource": {
-          "relative_path": "media/ChangeTemplate_edited.mp4"
+          "relative_path": "media/4incentiveparentlettertemplate.png"
         }
       },
       "version": ""
     },
     {
       "type": "Resource",
-      "source_relative_path": "media/Coupon_edited.mp4",
+      "source_relative_path": "media/BackOfficeLogo.svg",
       "output": {
         "resource": {
-          "relative_path": "media/Coupon_edited.mp4"
+          "relative_path": "media/BackOfficeLogo.svg"
         }
       },
       "version": ""
     },
     {
       "type": "Resource",
-      "source_relative_path": "media/FooterImage_edited.mp4",
+      "source_relative_path": "media/Coupon/Coupon_edited.mp4",
       "output": {
         "resource": {
-          "relative_path": "media/FooterImage_edited.mp4"
+          "relative_path": "media/Coupon/Coupon_edited.mp4"
         }
       },
       "version": ""
     },
     {
       "type": "Resource",
-      "source_relative_path": "media/InsertIncentives_edited.mp4",
+      "source_relative_path": "media/Coupon/changeCouponsContextBtn.png",
       "output": {
         "resource": {
-          "relative_path": "media/InsertIncentives_edited.mp4"
+          "relative_path": "media/Coupon/changeCouponsContextBtn.png"
         }
       },
       "version": ""
     },
     {
       "type": "Resource",
-      "source_relative_path": "media/MailMerge_edited.mp4",
+      "source_relative_path": "media/Coupon/changeCouponsDialog.png",
       "output": {
         "resource": {
-          "relative_path": "media/MailMerge_edited.mp4"
+          "relative_path": "media/Coupon/changeCouponsDialog.png"
         }
       },
       "version": ""
     },
     {
       "type": "Resource",
-      "source_relative_path": "media/SwapIncentives_edited.mp4",
+      "source_relative_path": "media/Coupon/changeCouponsRibbonBtn.png",
       "output": {
         "resource": {
-          "relative_path": "media/SwapIncentives_edited.mp4"
+          "relative_path": "media/Coupon/changeCouponsRibbonBtn.png"
         }
       },
       "version": ""
     },
     {
       "type": "Resource",
-      "source_relative_path": "media/changeTemplateBtn.png",
+      "source_relative_path": "media/FooterImage/FooterImage_edited.mp4",
       "output": {
         "resource": {
-          "relative_path": "media/changeTemplateBtn.png"
+          "relative_path": "media/FooterImage/FooterImage_edited.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "media/FooterImage/footerImageContextBtn.png",
+      "output": {
+        "resource": {
+          "relative_path": "media/FooterImage/footerImageContextBtn.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "media/FooterImage/footerImageRibbonBtn.png",
+      "output": {
+        "resource": {
+          "relative_path": "media/FooterImage/footerImageRibbonBtn.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "media/Incentive/InsertIncentives_edited.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "media/Incentive/InsertIncentives_edited.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "media/Incentive/SwapIncentives_edited.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "media/Incentive/SwapIncentives_edited.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "media/Incentive/insertIncentiveContextBtn.png",
+      "output": {
+        "resource": {
+          "relative_path": "media/Incentive/insertIncentiveContextBtn.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "media/Incentive/insertIncentiveRibbonBtn.png",
+      "output": {
+        "resource": {
+          "relative_path": "media/Incentive/insertIncentiveRibbonBtn.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "media/Incentive/swapIncentiveContextBtn.png",
+      "output": {
+        "resource": {
+          "relative_path": "media/Incentive/swapIncentiveContextBtn.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "media/MailMerge/MailMerge_edited.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "media/MailMerge/MailMerge_edited.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "media/MailMerge/insertMergeDialog.png",
+      "output": {
+        "resource": {
+          "relative_path": "media/MailMerge/insertMergeDialog.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "media/MailMerge/insertMergeRibbonBtn.png",
+      "output": {
+        "resource": {
+          "relative_path": "media/MailMerge/insertMergeRibbonBtn.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "media/MailMerge/viewMergedRibbonBtn.png",
+      "output": {
+        "resource": {
+          "relative_path": "media/MailMerge/viewMergedRibbonBtn.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "media/Template/ChangeTemplate_edited.mp4",
+      "output": {
+        "resource": {
+          "relative_path": "media/Template/ChangeTemplate_edited.mp4"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "media/Template/changeTemplateBtn.png",
+      "output": {
+        "resource": {
+          "relative_path": "media/Template/changeTemplateBtn.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "media/Template/changeTemplateRibbonBtn.png",
+      "output": {
+        "resource": {
+          "relative_path": "media/Template/changeTemplateRibbonBtn.png"
         }
       },
       "version": ""

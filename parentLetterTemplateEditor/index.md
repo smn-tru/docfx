@@ -1,7 +1,7 @@
 # PARENT LETTER TEMPLATE EDITOR
-A guide to key features of the parent letter template editor in BackOffice.
+A guide to help navigate through the parent letter template editor in BackOffice.
 
-![ alt-text ](../media/4incentiveparentletter.png)
+![ alt-text ](../media/4incentiveparentlettertemplate.png)
 
 
 
