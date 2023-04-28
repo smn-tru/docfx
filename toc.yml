@@ -1,15 +1,10 @@
 - name: Home
   href: index.md
 
-- name: Articles
-  href: articles/
-
-  items:
 - name: Documentation
-  homepage: index.md
+  href: documentationIndex.md
   items:
-  - name: Parent Letter Template Editor
+  - name: Parent Letter 
     href: parentLetterTemplateEditor/
 
   
-

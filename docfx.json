@@ -19,6 +19,11 @@
     }
   ],
   "build": {
+    "globalMetadata": {
+      "_appLogoPath": "../media/BackOfficeLogo.svg",
+      "_appName": "BackOffice Docs",
+      "_disableNextArticle": true
+    },
     "content": [
       {
         "files": [
@@ -60,4 +65,5 @@
     "keepFileLink": false,
     "disableGitFeatures": false
   }
+
 }
