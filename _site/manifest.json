@@ -78,6 +78,16 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "media/BackOfficeDoorLogo.png",
+      "output": {
+        "resource": {
+          "relative_path": "media/BackOfficeDoorLogo.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "media/BackOfficeLogo.svg",
       "output": {
         "resource": {
@@ -272,6 +282,26 @@
       "output": {
         "resource": {
           "relative_path": "media/Template/changeTemplateRibbonBtn.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "media/Template/saveAsDialog.png",
+      "output": {
+        "resource": {
+          "relative_path": "media/Template/saveAsDialog.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "media/Template/saveAsRibbonBtn.png",
+      "output": {
+        "resource": {
+          "relative_path": "media/Template/saveAsRibbonBtn.png"
         }
       },
       "version": ""

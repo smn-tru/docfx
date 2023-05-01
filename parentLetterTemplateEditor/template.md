@@ -27,3 +27,14 @@ An overview of how to change and save parent letter templates.
 
 ## Save As New Template
 
+To save a default or a custom template as a new template
+
+- Go to the **File** tab located at the top toolbar of the editor
+- Click **Save As**
+>![saveAsRibbonBtn](../media/Template/saveAsRibbonBtn.png)
+- Fill in the Template Name and Description fields
+>![saveAsDialog](../media/Template/saveAsDialog.png)
+
+>[!Note]
+>May need to refresh the page to view the newly saved template in the *My Template* tab
+
