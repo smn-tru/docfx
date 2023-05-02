@@ -10,7 +10,7 @@
       ],
       "dest": "api",
       "includePrivateMembers": false,
-      "disableGitFeatures": false,
+      "disableGitFeatures": true,
       "disableDefaultFilter": false,
       "noRestore": false,
       "namespaceLayout": "flattened",
@@ -20,9 +20,10 @@
   ],
   "build": {
     "globalMetadata": {
-      "_appLogoPath": "../media/BackOfficeLogo.svg",
-      "_appName": "BackOffice Docs",
-      "_disableNextArticle": true
+      "_appLogoPath": "../media/BackOfficeDoorLogo.png",
+      "_appFaviconPath": "..media/BackOfficeDoorLogo.png",
+      "_appName": "BackOffice",
+      "_disableNextArticle": false
     },
     "content": [
       {
@@ -63,7 +64,7 @@
     ],
     "postProcessors": [],
     "keepFileLink": false,
-    "disableGitFeatures": false
+    "disableGitFeatures": true
   }
 
 }
